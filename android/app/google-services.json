@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253284033176",
+    "project_id": "groceryvais",
+    "storage_bucket": "groceryvais.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253284033176:android:c04b1f8365931e7542a6ed",
+        "android_client_info": {
+          "package_name": "com.example.grocery_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253284033176-2up9gin2upmgk7minhkpbglfvj81tf6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2gOv9jlVCO57i3pznYvA6MO-NSxlUGDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253284033176-2up9gin2upmgk7minhkpbglfvj81tf6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
